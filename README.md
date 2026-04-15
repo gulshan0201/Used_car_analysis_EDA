@@ -1,7 +1,3 @@
-This is a comprehensive Markdown template for your GitHub `README.md` file based on the analysis and machine learning workflow in your Jupyter Notebook.
-
----
-
 # Used Car Price Classification Analysis 🚗
 
 This project performs a comprehensive data analysis and builds a machine learning model to categorize used car prices. Using a Random Forest Classifier, the project predicts whether a vehicle is **Underpriced**, **Fairly Priced**, or **Overpriced** based on its technical specifications and history.
